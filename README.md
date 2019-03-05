@@ -51,7 +51,7 @@ curl -XPOST -H 'Content-Type: application/json' -d '{ "hello": "world"}' http://
 
 ## Deploying to Heroku
 
-~1) Create a new Heroku app:~
+1) Create a new Heroku app:
 ```
 ~heroku create [APP_NAME]~
 ```
