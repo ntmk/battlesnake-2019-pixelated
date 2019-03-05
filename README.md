@@ -27,9 +27,9 @@ Visit [https://github.com/battlesnakeio/community/blob/master/starter-snakes.md]
 
 ## Running the Snake Locally
 
-~1) [Fork this repo](https://github.com/battlesnakeio/starter-snake-python/fork).~
+1) [Fork this repo](https://github.com/battlesnakeio/starter-snake-python/fork).
 
-~2) Clone repo to your development environment:~
+2) Clone repo to your development environment:
 ```
 ~git clone git@github.com:<your github username>/starter-snake-python.git~
 ```
