@@ -1,4 +1,6 @@
-# Team Pixel -> Pixelated
+# Team Pixel -> Pixelated 2nd place beginner braket BattleSnake2019
+
+Missed the tournament? [Watch it now](https://www.twitch.tv/videos/389395340)!
 
 ***Note - I have made this repo opensource but have removed some of my secret weapons to not give the BattleSnake2020 competitors a leg up*** :smiley:
 
