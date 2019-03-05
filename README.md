@@ -20,9 +20,9 @@ Visit [https://github.com/battlesnakeio/community/blob/master/starter-snakes.md]
 * [pip](https://pip.pypa.io/en/latest/installing.html) to install Python dependencies
 
 ## Resources used
-[Amits A* Pages](http://theory.stanford.edu/~amitp/GameProgramming/)  /  
-[Noahs BattleSnake](https://github.com/noahspriggs/battlesnake-python)  /  
-[Python A* Ppathfinding (binary heap)](http://code.activestate.com/recipes/578919-python-a-pathfinding-with-binary-heap/)  /  
+[Amits A* Pages](http://theory.stanford.edu/~amitp/GameProgramming/)    
+[Noahs BattleSnake](https://github.com/noahspriggs/battlesnake-python)    
+[Python A* Ppathfinding (binary heap)](http://code.activestate.com/recipes/578919-python-a-pathfinding-with-binary-heap/)    
 [BattleSnake Docs](https://docs.battlesnake.io/)
 
 ## Running the Snake Locally
