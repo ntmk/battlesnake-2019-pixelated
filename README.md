@@ -24,7 +24,7 @@ Visit [https://github.com/battlesnakeio/community/blob/master/starter-snakes.md]
 ## Resources used
 [Amits A* Pages](http://theory.stanford.edu/~amitp/GameProgramming/)    
 [Noahs BattleSnake](https://github.com/noahspriggs/battlesnake-python)    
-[Python A* Ppathfinding (binary heap)](http://code.activestate.com/recipes/578919-python-a-pathfinding-with-binary-heap/)    
+[Python A* Pathfinding (binary heap)](http://code.activestate.com/recipes/578919-python-a-pathfinding-with-binary-heap/)    
 [BattleSnake Docs](https://docs.battlesnake.io/)
 
 ## Running the Snake Locally
@@ -69,7 +69,7 @@ heroku open
 ```
 or visit [http://APP_NAME.herokuapp.com](http://APP_NAME.herokuapp.com).
 
-## Deploying to Heroku
+## Useful commands / tools
 
 1) View server logs with the `heroku logs` command:
 ```
@@ -80,4 +80,14 @@ heroku logs -n 500 <- can be any value to display logs
 2) Output to file and console command:
 ```
 python app/main.py | tee output.txt
+```
+
+3) Using nodemon for live reloads:
+- install nodemon
+```
+npm install -g nodemon
+```
+- Run snake
+```
+nodemon --exec python main.py
 ```
